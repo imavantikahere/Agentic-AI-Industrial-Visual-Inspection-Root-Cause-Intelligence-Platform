@@ -1,0 +1,2 @@
+# Agentic-AI-Industrial-Visual-Inspection-Root-Cause-Intelligence-Platform
+An enterprise-grade AI system for industrial defect inspection, anomaly detection, root cause reasoning, corrective action planning, and intelligent workflow routing.  This project demonstrates how Computer Vision, LLMs, and Agentic AI can be integrated into real-world industrial quality assurance and maintenance workflows.
